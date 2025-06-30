@@ -29,6 +29,15 @@ Sintaxis:
   
 }
 
+body.dark {
+  /* Schema Dark Mode */
+
+ --base:#4A1032;
+ --height:#92737B;
+  --shadow:#C62E89;
+  --white: #9F8D95;
+  --black: #15050E;
+}
 
 
  *{
