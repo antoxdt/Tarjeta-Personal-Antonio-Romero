@@ -33,9 +33,9 @@ body.dark {
   /* Schema Dark Mode */
 
  --base:#4A1032;
- --height:#92737B;
+ --height:#759273;
   --shadow:#C62E89;
-  --white: #9F8D95;
+  --white: #000000;
   --black: #15050E;
 }
 
@@ -134,6 +134,7 @@ button{
   text-align: center;
   font-size: 1.25rem; /* 20 px / 16px =  */
   line-height: 1.125rem;
+  color: #E442A9;
   
 }
 
@@ -168,6 +169,7 @@ button{
 
 .footer p{
   font-size: 0.75rem;
+  color: #C62E89;
 }
 
 
